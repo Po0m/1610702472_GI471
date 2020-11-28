@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/GI471/Scenes/W5_Zombie.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
